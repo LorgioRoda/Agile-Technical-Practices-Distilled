@@ -1,3 +1,2 @@
-export const statsCalculator = () => {
-  
+export const statsCalculator = (data) => {
 }
