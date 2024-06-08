@@ -9,3 +9,8 @@ export const handlePlayerA = (choose) => {
   squares[choose] = "X"
   return squares
 }
+
+export const handlePlayerB = (choose) => {
+  squares[choose] = "O"
+  return squares
+}
